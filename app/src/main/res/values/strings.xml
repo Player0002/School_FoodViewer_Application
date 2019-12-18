@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SchoolFoodViewer</string>
+    <string name="title_activity_food_viewer">FoodViewer</string>
+    <string name="title_morning">아침</string>
+    <string name="title_lunch">점심</string>
+    <string name="title_dinner">저녁</string>
+    <string name="hint_search">학교명을 입력해주세요 \t\t</string>
+    <string name="text_search">Search</string>
+    <string name="url">input_user_server_address</string>
+</resources>
